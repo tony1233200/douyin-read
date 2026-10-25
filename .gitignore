@@ -1,0 +1,18 @@
+# Downloaded media and transcripts (user data, never commit)
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.webp
+transcript*.txt
+output/
+meta.json
+
+# Speech model files
+models/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
